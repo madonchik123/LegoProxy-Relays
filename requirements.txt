@@ -1,0 +1,8 @@
+httpx
+fastapi
+uvicorn
+colorama
+python-dotenv
+python-multipart
+requests
+cachetools
